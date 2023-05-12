@@ -33,7 +33,7 @@ small {
     no-repeat center center/cover;
   margin: auto;
   cursor: pointer;
-  max-width: 100%;
+  max-width: 95%;
   position: relative;
     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     overflow: hidden;
