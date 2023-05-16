@@ -3,3 +3,8 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: #fef9f2;
+  font-family: 'Montserrat', sans-serif;
+}
