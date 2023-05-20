@@ -14,4 +14,9 @@ ratingsContainer.addEventListener('click', (e) => {
         e.target.previousSibling &&
         e.target.previousElementSibling.nodeName === 'IMG'
     ) 
+    {
+        removeActive()
+        e.target.parentNode.classList.add('active')
+        selectedRating = e.target.innerHTML
+    }
 })
