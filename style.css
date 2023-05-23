@@ -58,7 +58,7 @@ body {
 .rating small {
   color: #565;
   display: inline-block;
-  margin: 10px 0 0;
+  margin: 8px 0 0;
 }
 
 .rating:hover small,
