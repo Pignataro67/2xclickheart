@@ -5,12 +5,12 @@
 }
 
 body {
-  background-color: #fef9f2;
+  background-color: #efe9f2;
   font-family: 'Montserrat', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 95vh;
   overflow: hidden;
   margin: 0;
 }
