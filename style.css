@@ -30,12 +30,12 @@ body {
 }
 
 .panel-container strong {
-  line-height: 20px;
+  line-height: 30px;
 }
 
 .ratings-container {
   display: flex;
-  margin: 20px 0;
+  margin: 25px 0;
 }
 
 .rating {
