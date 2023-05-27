@@ -41,7 +41,7 @@ body {
 .rating {
   flex: 1;
   cursor: pointer;
-  padding: 20px;
+  padding: 25px;
   margin: 10px 5px;
 }
 
