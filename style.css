@@ -30,7 +30,7 @@ body {
 }
 
 .panel-container strong {
-  line-height: 30px;
+  line-height: 35px;
 }
 
 .ratings-container {
@@ -42,7 +42,7 @@ body {
   flex: 1;
   cursor: pointer;
   padding: 30px;
-  margin: 10px 5px;
+  margin: 15px 5px;
 }
 
 .rating:hover,
