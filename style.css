@@ -14,7 +14,7 @@ header {
   padding: 2rem;
   display: flex;
   justify-content: flex-end;
-  backgroundbackground-color: transparent;
+  background-color: transparent;
   border: 5px solid var(--primary-color);
   border-radius: 55px;
   font-family: inherit;
@@ -71,4 +71,8 @@ main {
   padding: 0.25rem 0.5rem;
   border-radius: 3px;
   font-weight: bold;
+}
+
+.movie-info span.green {
+  color: lightgreen;
 }
