@@ -89,7 +89,7 @@ overview {
   bottom: 0;
   right: 0;
   max-height: 100%;  
-  transform: translateY(101%);
+  transform: translateY(103%);
   overflow-y: auto;
-  transition: transform 0.3s ease-in;
+  transition: transform 0.2s ease-in;
 }
