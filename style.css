@@ -16,15 +16,15 @@ header {
   justify-content: flex-end;
   background-color: transparent;
   border: 10px solid var(--primary-color);
-  border-radius: 55px;
+  border-radius: 60px;
   font-family: inherit;
   font-size: 3rem;
-  padding: 0.9 2rem;
+  padding: 0.9 3rem;
   color: #fff;
 }
 
 .search::placeholder {
-  color: #7378c5;
+  color: #7387d5;
 }
 
 .search:focus {
