@@ -26,10 +26,8 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 25px;
-    max-width: 390px;
-  
-
+    padding: 30px;
+    max-width: 405px;
 }
 
 .panel-container strong {
