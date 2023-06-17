@@ -66,3 +66,8 @@ body {
 .rating.active small {
   color: #111;
 }
+
+.btn {
+  background-color: #302d2b;
+  color: #fff;
+}
