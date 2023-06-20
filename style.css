@@ -53,13 +53,13 @@ body {
 }
 
 .rating img {
-  width: 45px;
+  width: 50px;
 }
 
 .rating small {
   color: #555;
   display: inline-block;
-  margin: 10px 0 0;
+  margin: 5px 0 0;
 }
 
 .rating:hover small,
