@@ -42,8 +42,8 @@ body {
 .rating {
   flex: 1;
   cursor: pointer;
-  padding: 20px;
-  margin: 15px 5px;
+  padding: 25px;
+  margin: 20px 5px;
 }
 
 .rating:hover,
