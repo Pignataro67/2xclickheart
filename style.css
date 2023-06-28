@@ -57,3 +57,8 @@ body {
   z-index: -1;
   transition: 0.4s ease;
 }
+
+.circle {
+  background-color: #1f1f1f;
+  color:#e2e2e2;
+}
