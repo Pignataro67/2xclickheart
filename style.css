@@ -2,8 +2,7 @@
 
 :root {
   --line-border-fill: #3498db;
-  --line-border-empty: #383838;
-
+  --line-border-empty: #373737;
 } 
 
 * {
@@ -16,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 95vh;
+  height: 90vh;
   overflow: hidden;
   margin: 0;
 }
