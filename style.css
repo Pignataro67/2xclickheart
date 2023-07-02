@@ -38,10 +38,10 @@ body {
   content: '';
   background-color: var(--line-border-empty);
   position: absolute;
-  top: 45%;
+  top: 50%;
   left: 0;
   transform: translateY(-50%);
-  height: 4px;
+  height: 2px;
   width: 100%;
   z-index: -1;
 }
