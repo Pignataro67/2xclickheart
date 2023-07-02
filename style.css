@@ -28,9 +28,9 @@ body {
   display: flex;
   justify-content: space-between;
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   max-width: 100%;
-  width: 350px;
+  width: 345px;
 }
 
 .progress-container::before {
