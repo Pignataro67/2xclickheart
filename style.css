@@ -29,8 +29,8 @@ body {
   justify-content: space-between;
   position: relative;
   margin-bottom: 25px;
-  max-width: 100%;
-  width: 345px;
+  max-width: 95%;
+  width: 340px;
 }
 
 .progress-container::before {
