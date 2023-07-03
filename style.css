@@ -40,8 +40,8 @@ body {
   top: 55%;
   left: 0;
   transform: translateY(-55%);
-  height: 2px;
-  width: 90%;
+  height: 3px;
+  width: 95%;
   z-index: -1;
 }
 
