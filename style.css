@@ -19,10 +19,10 @@ body {
 
 .btn {
   background-color: rebeccapurple;
-  border-radius: 5px;
+  border-radius: 10px;
   border: none;
   color: #fff;
-  margin: 1rem;
+  margin: 1.5rem;
   padding: 1.5rem 3rem;
   font-size: 1.2rem;
   font-family: inherit;
