@@ -42,12 +42,6 @@ body {
     transform: rotate(0deg);
   }
 
-  @keyframes rotateA {
-    0%,
-    25% {
-      transform: rotate(0deg);
-    }
-
   50%,
   75% {
     transform: rotate(180deg);
@@ -57,7 +51,6 @@ body {
       transform: rotate(360deg);
     }
   }
-
 
 @keyframes rotateB {
   0%,
