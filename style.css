@@ -57,3 +57,10 @@ body {
       transform: rotate(360deg);
     }
   }
+
+
+@keyframes rotateB {
+  0%,
+  25% {
+    transform: rotate(90deg);
+  }
