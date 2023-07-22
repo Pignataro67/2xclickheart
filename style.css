@@ -26,9 +26,9 @@ body {
   left: 0;
   width: 0;
   height: 0;
-  border: 50px solid transparent;
+  border: 55px solid transparent;
   border-bottom-color: #eee;
-  animation: rotateA 2s linear infinite 0.5s;
+  animation: rotateA 2s linear infinite 0.6s;
 }
 
 .kinetic::before {
