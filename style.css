@@ -25,3 +25,9 @@ img {
   overflow: hidden;
   width: 350px;
 }
+
+.card-header img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
