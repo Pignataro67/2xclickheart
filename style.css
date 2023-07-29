@@ -72,7 +72,7 @@ img {
 
 .author-info small {
   color: #aaa;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 .animated-bg {
@@ -81,7 +81,7 @@ img {
     #f6f7f8 0%,
     #edeef1 10%,
     #f6f7f8 20%,
-    #f6f7f8 100%
+    #f6f7f8 95%
   );
   background-size: 200% 100%;
   animation: bgPos 1s linear infinite;
