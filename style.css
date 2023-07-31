@@ -23,11 +23,11 @@ img {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   overflow: hidden;
-  width: 350px;
+  width: 355px;
 }
 
 .card-header {
-  height: 200px;
+  height: 210px;
 }
 
 .card-header img {
