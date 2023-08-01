@@ -80,8 +80,8 @@ img {
     to right,
     #f6f7f8 0%,
     #edeef1 10%,
-    #f6f7f8 20%,
-    #f6f7f8 95%
+    #f6f7f8 25%,
+    #f6f7f8 90%
   );
   background-size: 200% 100%;
   animation: bgPos 1s linear infinite;
