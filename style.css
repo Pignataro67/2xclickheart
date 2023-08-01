@@ -97,10 +97,10 @@ img {
 
 @keyframes bgPos {
   0% {
-    background-position: 50% 0;
+    background-position: 55% 0;
   }
 
   100% {
-    background-position: -150% 0;
+    background-position: -145% 0;
   }
 }  
