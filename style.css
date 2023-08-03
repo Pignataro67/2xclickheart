@@ -27,12 +27,12 @@ img {
 }
 
 .card-header {
-  height: 215px;
+  height: 220px;
 }
 
 .card-header img {
   object-fit: cover;
-  height: 100%;
+  height: 95%;
   width: 100%;
 }
 
