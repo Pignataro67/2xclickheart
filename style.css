@@ -66,8 +66,8 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  margin-left: 10px;
-  width: 100px;
+  margin-left: 15px;
+  width: 95px;
 }
 
 .author-info small {
