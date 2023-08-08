@@ -104,3 +104,8 @@ body {
   font-size: 20px;
   letter-spacing: 1px;
 }
+
+.content h2,
+.content h3 {
+  font-size: 150%;
+}
