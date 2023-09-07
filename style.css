@@ -44,10 +44,10 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: #9ef862;
   display: flex;
   justify-content: flex-end;
-  padding: 0.5rem;
+  padding: 0.7rem;
 }
 
 .note .tools button {
