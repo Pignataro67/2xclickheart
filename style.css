@@ -21,8 +21,8 @@ body {
   background-color: #9ec862;
   color: #fff;
   border: none;
-  border-radius: 3px;
-  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  padding: 0.6rem 2rem;
   cursor: pointer;
 }
 
