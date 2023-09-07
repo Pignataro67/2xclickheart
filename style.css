@@ -54,3 +54,11 @@ body {
   background-color: transparent;
   border: none;
 }
+
+.main {
+  .note .tools button {
+    background-color: transparent;
+      border: none;
+    }
+
+  }
