@@ -80,3 +80,10 @@ body {
   width: 15px;
   transform: skewY(45deg);
 }
+
+.box::before {
+  content: '';
+  background-color: #f9ca24;
+  position: absolute;
+  bottom: -15px;
+}
