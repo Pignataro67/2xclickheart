@@ -6,7 +6,7 @@
 
 body {
   background: #efefbb;
-  background: linear-gradient(to right, #d4d3dd, #efefbb);
+  background: linear-gradient(to left, #d4d3dd, #efefbb);
   font-family: 'Lato', sans-serif;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  letter-spacing: 3px;
+  letter-spacing: 5px;
 }
 
 .poke-container {
