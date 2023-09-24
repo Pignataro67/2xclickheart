@@ -54,3 +54,9 @@ nav ul {
   margin: 0;
   height: 60px;
 }
+
+
+nav li {
+  color: #777;
+  cursor: pointer;
+}
