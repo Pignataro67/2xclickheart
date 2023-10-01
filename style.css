@@ -10,14 +10,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 95vh;
+  height: 100vh;
   overflow: hidden;
   margin: 0;
 }
 
 .container {
   border-radius: 5px;
-  box-shadow: 4px 3px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;
   width: 295px;
 }
