@@ -17,9 +17,9 @@ body {
 
 .container {
   border-radius: 5px;
-  box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 4px 5px 12px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  width: 295px;
+  width: 290px;
 }
 
 .title {
