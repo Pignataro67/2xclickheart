@@ -1,20 +1,7 @@
-const contents = document.querySelectorAll('.content')
-const listItems = document.querySelectorAll('nav ul li')
+const open = document.getElementById('open')
+const close = document.getElementById('close')
+const container = document.querySelector('.container')
 
-listItems.forEach((item, idx) => {
-    item.addEventListener('click', () => {
-        hideAllContents()
-        hideAllItems()
+open.addEventListener('click', () => container.classList.add('show-nav'))
 
-        item.classList.add('active')
-        contents[idx].classList.add('show')
-    })
-})
-
-function hideAllContents() {
-  contents.forEach(content => content.classList.remove('show'))
-}
-
-function hideAllItems() {
-  listItems.forEach(item => item.classList.remove('active'))
-}
+close.addEventListener('click', () => container.classList.remove('show-nav'))
