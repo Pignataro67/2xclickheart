@@ -37,3 +37,7 @@ body {
 .phone .content.show {
   opacity: 1;
 }
+
+nav {
+  position: absolute;
+}
