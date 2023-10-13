@@ -34,10 +34,10 @@ body {
 .circle {
   background-color: #ff7979;
   height: 200px;
-  width: 200px;
+  width: 195px;
   der-radius: 50%;
   position: relative;
-  transition: transform 0.5s linear;
+  transition: transform 0.7s linear;
 }  
 
 .container.show-nav .circle {
