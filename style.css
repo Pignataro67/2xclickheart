@@ -47,3 +47,8 @@ body {
 .circle-container {
   position: relative;
 }
+
+.circle button {
+  cursor: pointer;
+  position: absolute;
+}
