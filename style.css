@@ -33,7 +33,7 @@ body {
 
 .circle {
   background-color: #ff7979;
-  height: 200px;
+  height: 205px;
   width: 195px;
   der-radius: 50%;
   position: relative;
@@ -41,7 +41,7 @@ body {
 }  
 
 .container.show-nav .circle {
-  transform: rotate(-70deg);
+  transform: rotate(-65deg);
 }
 
 .circle-container {
