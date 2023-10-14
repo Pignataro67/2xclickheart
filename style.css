@@ -32,9 +32,9 @@ body {
 }
 
 .circle {
-  background-color: #ff7979;
-  height: 205px;
-  width: 195px;
+  background-color: #ee7979;
+  height: 200px;
+  width: 200px;
   der-radius: 50%;
   position: relative;
   transition: transform 0.8s linear;
