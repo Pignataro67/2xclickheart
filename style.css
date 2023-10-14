@@ -37,11 +37,11 @@ body {
   width: 195px;
   der-radius: 50%;
   position: relative;
-  transition: transform 0.7s linear;
+  transition: transform 0.8s linear;
 }  
 
 .container.show-nav .circle {
-  transform: rotate(-65deg);
+  transform: rotate(-60deg);
 }
 
 .circle-container {
