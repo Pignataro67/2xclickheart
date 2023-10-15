@@ -17,7 +17,7 @@ body {
   transform-origin: top left;
   transition: transform 0.5s linear;
   width: 100vw;
-  in-height: 100vh;
+  min-height: 100vh;
   padding: 50px;
 }
 
@@ -35,7 +35,7 @@ body {
   background-color: #ee7979;
   height: 200px;
   width: 200px;
-  der-radius: 50%;
+  border-radius: 50%;
   position: relative;
   transition: transform 0.8s linear;
 }  
