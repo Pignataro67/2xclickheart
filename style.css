@@ -49,7 +49,7 @@ body {
 }
 
 .container.show-nav .circle {
-  transform: rotate(-70deg);
+  transform: rotate(-65deg);
 }
 
 .circle button {
