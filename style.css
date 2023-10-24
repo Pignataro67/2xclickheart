@@ -38,8 +38,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 45px;
-  width: 45px;
+  height: 50px;
+  width: 50px;
   transition: transform 0.3s ease;
 }
 
@@ -49,7 +49,7 @@ body {
 }
 
 .search.active .input {
-  width: 195px;
+  width: 190px;
 }
 
 .search.active .btn {
